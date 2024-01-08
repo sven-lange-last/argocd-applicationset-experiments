@@ -7,7 +7,7 @@ We welcome your contributions. They help to improve this project.
 
 # Explicit agreement
 
-All contributions to this project must be submitted as GitHub issues, pull requests, or comments on the aforementioned.
+All contributions to this repository are submitted as GitHub files, issues, pull requests, wiki pages and discussions as well as comments to the aforementioned.
 
 This way contributors have agreed to the [GitHub Terms of Service: 6. Contributions Under Repository License](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license) which states:
 
